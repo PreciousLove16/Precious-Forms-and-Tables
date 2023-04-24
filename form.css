@@ -1,0 +1,23 @@
+
+.box{
+    margin-left: 150px;
+}
+.street{
+    margin-left:177px ;
+}
+.city{
+    margin-left: 186px;
+}
+.bio{
+    display: flex;
+}
+.biography{
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+.file{
+    margin-left: 160px;
+}
+.age{
+    margin-left: 130px;
+}
